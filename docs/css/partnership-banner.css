@@ -55,7 +55,7 @@
     width: 100%;
     height: auto;
     max-height: 200px;
-    object-fit: contain;
+    object-fit: cover;
     object-position: center;
     display: block;
 }
